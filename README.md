@@ -41,7 +41,7 @@ Proyek ini membutuhkan lingkungan sederhana untuk menjalankan analisis data dan 
    - Jalankan seluruh isi file `notebook.ipynb` menggunakan Google Colab/Jupyter Notebook untuk melihat hasil analisis data, temuan, dan insight yang diperoleh.
 2. **Menjalankan Dashboard**:
    Untuk melihat isi dashboard secara langsung, dapat diakses pada tableau public berikut : https://public.tableau.com/views/Book1_17502283530910/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-3. **Menjalankan Streamlit Deployment Model**
+3. **Menjalankan Streamlit Deployment Model** : Dapat diakses pada link berikut https://jaya-jaya-maju.streamlit.app/
 
 
 
