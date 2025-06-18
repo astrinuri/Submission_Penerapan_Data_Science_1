@@ -41,7 +41,21 @@ Proyek ini membutuhkan lingkungan sederhana untuk menjalankan analisis data dan 
    - Jalankan seluruh isi file `notebook.ipynb` menggunakan Google Colab/Jupyter Notebook untuk melihat hasil analisis data, temuan, dan insight yang diperoleh.
 2. **Menjalankan Dashboard**:
    Untuk melihat isi dashboard secara langsung, dapat diakses pada tableau public berikut : https://public.tableau.com/views/Book1_17502283530910/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-3. **Menjalankan Streamlit Deployment Model** : Dapat diakses pada link berikut https://jaya-jaya-maju.streamlit.app/
+3. **Menjalankan Aplikasi Streamlit Secara Lokal**
+Untuk menjalankan aplikasi ini secara lokal, ikuti langkah-langkah berikut:
+
+a. **Clone repositori ini** (jika belum):
+
+   ```bash
+   git clone https://github.com/astrinuri/Submission_Penerapan_Data_Science_1.git
+   ```
+b. Install semua dependencies
+c. Pastikan file model rf_model.joblib ada di direktori yang sama dengan app.py
+d. Jalankan aplikasi Streamlit:
+   ```bash
+   streamlit run app.py
+   ```
+
 
 
 
